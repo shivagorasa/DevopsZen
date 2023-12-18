@@ -1,0 +1,9 @@
+# To create 20 text files we use touch command here
+touch file1.txt file2.txt file3.txt file4.txt file5.txt file6.txt file7.txt file8.txt file9.txt file10.txt file11.txt file12.txt file13.txt file14.txt file15.txt file16.txt file17.txt file18.txt file19.txt file20.txt
+
+# To Rename the first five files to .yml we use mv command
+mv file1.txt file1.yml
+mv file2.txt file2.yml
+mv file3.txt file3.yml
+mv file4.txt file4.yml
+mv file5.txt file5.yml
