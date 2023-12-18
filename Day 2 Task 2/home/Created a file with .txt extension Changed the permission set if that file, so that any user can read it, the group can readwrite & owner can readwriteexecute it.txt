@@ -1,0 +1,9 @@
+# To Create a text file with .txt extension
+touch /home/demo.txt
+
+# Set permissions so that owner can read/write/execute , group can read/write and any user can read it
+chmod 754 /home/demo.txt
+
+7 --> rwx
+5 --> rw-
+4 --> r--
